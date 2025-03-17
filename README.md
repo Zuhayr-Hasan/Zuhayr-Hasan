@@ -6,7 +6,7 @@
 - 📝 I regularly write articles on https://medium.com/@zuhairhassan1122
 - 📫 How to reach me **zuhayrhasandev@gmail.com**
 
-- 📄 Know about my experiences [https://zuhayr77.notion.site/Zuhayr-Hasan-64ee0fad18ee4240b2b9c89bc1ac6862](https://zuhayr77.notion.site/Zuhayr-Hasan-64ee0fad18ee4240b2b9c89bc1ac6862)
+- 📄 Know about my experiences http://bit.ly/4hjHQEf
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
