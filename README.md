@@ -3,8 +3,7 @@
 
 - 👨‍💻 Learn more about me [https://linktr.ee/zuhayrhasan](https://linktr.ee/zuhayrhasan)
 
-- 📝 I regularly write articles on [https://medium.com/@zuhairhassan1122/introduction-to-redux-toolkit-and-rtk-query-4abbf1fda757](https://medium.com/@zuhairhassan1122/introduction-to-redux-toolkit-and-rtk-query-4abbf1fda757)
-
+- 📝 I regularly write articles on [https://medium.com/@zuhairhassan1122/introduction-to-redux-toolkit-and-rtk-query-4abbf1fda757]
 - 📫 How to reach me **zuhayrhasandev@gmail.com**
 
 - 📄 Know about my experiences [https://zuhayr77.notion.site/Zuhayr-Hasan-64ee0fad18ee4240b2b9c89bc1ac6862](https://zuhayr77.notion.site/Zuhayr-Hasan-64ee0fad18ee4240b2b9c89bc1ac6862)
