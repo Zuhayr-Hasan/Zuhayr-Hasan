@@ -1,5 +1,5 @@
-<h1 align="center">🚀 Zuhayr Hasan</h1>
-<h3 align="center">Full-Stack Engineer | Building Scalable Web Apps | Turning Ideas into Reality</h3>
+<h1 align="center">Zuhair Hassaan</h1>
+<h3 align="center">Helping restaurant & pharmacy owners digitize billing & inventory with custom POS systems | MERN Stack Developer | AWS SA</h3>
 
 <p align="center">
   <a href="https://linktr.ee/zuhayrhasan">🌐 Portfolio</a> •
@@ -10,21 +10,21 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-* 💡 Full-stack engineer focused on **high-performance, scalable systems**
-* ⚡ Strong in **MERN + Next.js ecosystem**
-* 🧠 I enjoy solving **real-world problems with clean architecture**
-* ✍️ I share insights on **Medium** and continuously learn & build
+→ Full-stack engineer focused on **high-performance, scalable systems**
+→ Strong in **MERN + Next.js ecosystem**
+→ I enjoy solving **real-world problems with clean architecture**
+→ I share insights on **Medium** and continuously learn & build
 
 ---
 
-### 🔥 What I Bring
+### What I Bring
 
-* 🚀 Production-ready full-stack applications
-* 🧩 Clean, maintainable, and scalable code
-* ⚙️ Backend systems with performance optimization
-* 🎨 Pixel-perfect modern UI/UX
+→ Production-ready full-stack applications
+→ Clean, maintainable, and scalable code
+→ Backend systems with performance optimization
+→ Pixel-perfect modern UI/UX
 
 ---
 
@@ -57,13 +57,13 @@
 
 ---
 
-### ✍️ Latest Articles
+### Latest Articles
 
 * 📖 https://medium.com/@zuhairhassan1122
 
 ---
 
-### 🤝 Let's Connect
+### Let's Connect
 
 <p align="left">
 <a href="https://www.linkedin.com/in/zuhayr-hasan1/" target="_blank">
