@@ -12,19 +12,19 @@
 
 ### About Me
 
-→ Full-stack engineer focused on **high-performance, scalable systems**
-→ Strong in **MERN + Next.js ecosystem**
-→ I enjoy solving **real-world problems with clean architecture**
-→ I share insights on **Medium** and continuously learn & build
+* Full-stack engineer focused on **high-performance, scalable systems**
+* Strong in **MERN + Next.js ecosystem**
+* I enjoy solving **real-world problems with clean architecture**
+* I share insights on **Medium** and continuously learn & build
 
 ---
 
 ### What I Bring
 
-→ Production-ready full-stack applications
-→ Clean, maintainable, and scalable code
-→ Backend systems with performance optimization
-→ Pixel-perfect modern UI/UX
+* Production-ready full-stack applications
+* Clean, maintainable, and scalable code
+* Backend systems with performance optimization
+* Pixel-perfect modern UI/UX
 
 ---
 
@@ -73,6 +73,6 @@
 
 ---
 
-### ⚡ Personal Motto
+### Personal Motto
 
 > "Build systems that scale, write code that lasts, and never stop learning."
